@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+//this is a comment in the view controller
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
